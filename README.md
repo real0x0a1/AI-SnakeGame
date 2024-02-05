@@ -37,7 +37,7 @@ OR
 jupyter-lab AISnakeGame.ipynb
 ```
 
-## Usage on Different Operating Systems
+## Usage
 
 ### Windows
 
